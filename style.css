@@ -60,7 +60,7 @@
     transition: 0.3s;
     border-radius: 10px;
     width: 80%;
-    height: 250px;
+    height: 350px;
     text-align: center;
     position: relative;
     left: 9.5%;
@@ -70,6 +70,37 @@
 
 .skills:hover{
     box-shadow: 0 12px 20px 0 rgba(0,0,0,0.2);
+}
+
+.box1 {
+    background-color: rgb(113, 111, 111);
+    text-align: left;
+    margin: 20px 
+}
+.box1 p{
+    background-color: rgb(8, 194, 8);
+    width: 60%;
+    padding-left: 10px;    
+}
+.box2 {
+    background-color: rgb(113, 111, 111);
+    text-align: left;
+    margin: 20px 
+}
+.box2 p{
+    background-color: rgb(8, 194, 8);
+    width: 35%;
+    padding-left: 10px;    
+}
+.box3 {
+    background-color: rgb(113, 111, 111);
+    text-align: left;
+    margin: 20px 
+}
+.box3 p{
+    background-color: rgb(8, 194, 8);
+    width: 20%;
+    padding-left: 10px;    
 }
 
 .projects {
@@ -97,6 +128,7 @@
 }
 
 .project1 p{
+    
     background-color: rgb(8, 194, 8);
     height: 20px;
     position: relative;
