@@ -28,12 +28,12 @@
     color: whitesmoke;
 }
 
-.greetings >h2 {
+.greetings h2 {
     text-align: center;
     font-size: 40px;
 }
 
-.greetings >p {
+.greetings p {
     text-align: center;
     padding: 10px;
 }
@@ -48,7 +48,7 @@
     position: relative;
     left: 9.5%;
     
-    margin-top: 100px;
+    margin-top: 50px;
 }
 
 .about:hover{
@@ -77,7 +77,7 @@
     transition: 0.3s;
     border-radius: 10px;
     width: 80%;
-    height: 250px;
+    height: 600px;
     text-align: center;
     position: relative;
     left: 9.5%;
@@ -89,11 +89,75 @@
     box-shadow: 0 12px 20px 0 rgba(0,0,0,0.2);
 }
 
+.project1{
+    background-color: rgb(113, 111, 111);
+    width: 70%;
+    height: 150px;
+    margin: 20px 0 0 48px;
+}
 
+.project1 p{
+    background-color: rgb(8, 194, 8);
+    height: 20px;
+    position: relative;
+    top: 130px;
+}
 
+.project2{
+    background-color: rgb(113, 111, 111);
+    width: 70%;
+    height: 150px;
+    margin: 20px 0 0 48px;
+}
 
+.project2 p{
+    background-color: rgb(8, 194, 8);
+    height: 20px;
+    position: relative;
+    top: 130px;
+}
 
+.project3{
+    background-color: rgb(113, 111, 111);
+    width: 70%;
+    height: 150px;
+    margin: 20px 0 0 48px;
+}
 
+.project3 p{
+    background-color: rgb(8, 194, 8);
+    height: 20px;
+    position: relative;
+    top: 130px;
+}
+
+.project4{
+    background-color: rgb(113, 111, 111);
+    width: 70%;
+    height: 150px;
+    margin: 20px 0 0 48px;
+}
+
+.project4 p{
+    background-color: rgb(8, 194, 8);
+    height: 20px;
+    position: relative;
+    top: 130px;
+}
+
+.project5{
+    background-color: rgb(113, 111, 111);
+    width: 70%;
+    height: 150px;
+    margin: 20px 0 0 48px;
+}
+
+.project5 p{
+    background-color: rgb(8, 194, 8);
+    height: 20px;
+    position: relative;
+    top: 130px;
+}
 footer{
     background-color: grey;
     margin-top: 70px;
