@@ -18,8 +18,7 @@
     height: 75px;
     border-radius: 50%;
     background-size: cover;
-    position: relative;
-    left: 38%;
+    margin: auto;
 } 
 
 .greetings {
@@ -43,10 +42,10 @@
     transition: 0.3s;
     border-radius: 10px;
     width: 80%;
+    margin: auto;
+    padding: 2rem;
     height: 250px;
     text-align: center;
-    position: relative;
-    left: 9.5%;
 }
 
 .about:hover{
@@ -58,10 +57,10 @@
     transition: 0.3s;
     border-radius: 10px;
     width: 80%;
+    margin: auto;
     height: 350px;
     text-align: center;
-    position: relative;
-    left: 9.5%;
+    padding: 2rem;
 
     margin-top: 150px; 
 }
@@ -106,10 +105,10 @@
     transition: 0.3s;
     border-radius: 10px;
     width: 80%;
+    margin: auto;
     height: 600px;
     text-align: center;
-    position: relative;
-    left: 9.5%;
+    padding: 2rem;
 
     margin-top: 150px;
 }
@@ -122,7 +121,8 @@
     background-color: rgb(113, 111, 111);
     width: 70%;
     height: 150px;
-    margin: 20px 0 0 48px;
+    margin: auto;
+    margin-top: 20px;
 }
 
 .project1 p{
@@ -137,7 +137,8 @@
     background-color: rgb(113, 111, 111);
     width: 70%;
     height: 150px;
-    margin: 20px 0 0 48px;
+    margin: auto;
+    margin-top: 20px;
 }
 
 .project2 p{
@@ -164,8 +165,8 @@
 .project4{
     background-color: rgb(113, 111, 111);
     width: 70%;
-    height: 150px;
-    margin: 20px 0 0 48px;
+    hmargin: auto;
+    margin-top: 20px;
 }
 
 .project4 p{
@@ -178,8 +179,8 @@
 .project5{
     background-color: rgb(113, 111, 111);
     width: 70%;
-    height: 150px;
-    margin: 20px 0 0 48px;
+    margin: auto;
+    margin-top: 20px;
 }
 .project5 p{
     background-color: rgb(8, 194, 8);
@@ -231,4 +232,7 @@ footer{
     text-align: center;
     padding-top: 25px;
 }
+
+
+
 
